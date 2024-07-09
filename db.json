@@ -1,0 +1,1316 @@
+{
+  "Imagecart": [
+    {
+      "id": 1,
+      "img": "https://rukminim1.flixcart.com/flap/80/80/image/22fddf3c7da4c4f4.png?q=100",
+      "name": "Mobiles"
+    },
+    {
+      "id": 2,
+      "img": "https://rukminim1.flixcart.com/flap/80/80/image/29327f40e9c4d26b.png?q=100",
+      "name": "Grocery"
+    },
+    {
+      "id": 3,
+      "img": "https://rukminim1.flixcart.com/fk-p-flap/80/80/image/0d75b34f7d8fbcb3.png?q=100",
+      "name": "Fashion"
+    },
+    {
+      "id": 4,
+      "img": "https://rukminim1.flixcart.com/flap/80/80/image/69c6589653afdb9a.png?q=100",
+      "name": "Electronics"
+    },
+    {
+      "id": 5,
+      "img": "https://rukminim1.flixcart.com/flap/128/128/image/ab7e2b022a4587dd.jpg?q=100",
+      "name": "Furniture"
+    },
+    {
+      "id": 6,
+      "img": "https://rukminim1.flixcart.com/fk-p-flap/80/80/image/0139228b2f7eb413.jpg?q=100",
+      "name": "Appliances"
+    },
+    {
+      "id": 7,
+      "img": "https://rukminim1.flixcart.com/flap/80/80/image/71050627a56b4693.png?q=100",
+      "name": "Travels"
+    },
+    {
+      "id": 8,
+      "img": "https://rukminim1.flixcart.com/flap/80/80/image/dff3f7adcf3a90c6.png?q=100",
+      "name": "Beauty & Toys"
+    },
+    {
+      "id": 9,
+      "img": "https://rukminim1.flixcart.com/fk-p-flap/80/80/image/05d708653beff580.png?q=100",
+      "name": "Two Wheelers"
+    }
+  ],
+  "productpage": [
+    {
+      "id": 1,
+      "img": "https://images.unsplash.com/photo-1651013691313-81b822df0044?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Addidas,puma & more",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "shoes"
+    },
+    {
+      "id": 2,
+      "img": "https://assets.ajio.com/medias/sys_master/root/20240605/b8qN/66605ca505ac7d77bb9fda70/-473Wx593H-469612913-pink-MODEL.jpg",
+      "name": "Women sandless",
+      "Discount": "50% off",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "category": "sandless"
+    },
+    {
+      "id": 3,
+      "img": "https://www.jiomart.com/images/product/original/rvsl2oz3sd/sipet-stylish-beautiful-printed-top-for-women-and-girls-3-4th-sleeves-casual-wear-and-partywear-black-top-for-women-and-girls-product-images-rvsl2oz3sd-0-202308011049.jpg?im=Resize=(600,750)",
+      "name": "Top & Jeans",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "top "
+    },
+    {
+      "id": 4,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrJMFreKSV9JMPuNhbOSDpORrprklFDIX57It3XCOFdaWgHHbmyEhc0D-tsLSdH0ix0-A&usqp=CAU",
+      "name": "Woodland sooze",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "shoes"
+    },
+    {
+      "id": 5,
+      "img": "https://i.etsystatic.com/23678545/r/il/da91c4/2412559873/il_570xN.2412559873_n78q.jpg",
+      "name": "Kurti",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "kurti"
+    },
+    {
+      "id": 6,
+      "img": "https://www.threesixty.life/cdn/shop/files/BlackWaxyWalletAndWeaveTexturedBeltCombo_Black.webp?v=1690877066&width=2048",
+      "name": "Wallets & Belts",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "wallet & belt"
+    },
+    {
+      "id": 7,
+      "img": "https://www.montecarlo.in/cdn/shop/products/223061511-1-38_5.jpg?v=1700311049",
+      "name": "Men track",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "track"
+    },
+    {
+      "id": 8,
+      "img": "https://contents.mediadecathlon.com/p2436315/e957bd6a23553ffabaef22fd550e99c3/p2436315.jpg?format=auto&quality=70&f=650x0",
+      "name": "T-shirt",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "tshirt"
+    },
+    {
+      "id": 9,
+      "img": "https://assets.ajio.com/medias/sys_master/root/20230901/jPf9/64f1f6f7afa4cf41f59d54fd/-473Wx593H-469537893-darkindigo-MODEL.jpg",
+      "name": "Jeans",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "jeans"
+    },
+    {
+      "id": 10,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsW1cOxbpLOmTfJj6x8mnHMKY0E1FDRxuzQHeCj9LLsbcjLMTJNgsSemL3WwvLtY9MFDc&usqp=CAU",
+      "name": "Mobile pouches",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "mobile pouches"
+    },
+    {
+      "id": 11,
+      "img": "https://www.mongoosekart.com/image/cache/data/kishanupload2/22/Beautiful%20party%20wear%20digital%20printed%20long%20frock-1200x1200.jpeg",
+      "name": "Girls Frock",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "frock"
+    },
+    {
+      "id": 12,
+      "img": "https://images.meesho.com/images/products/283211996/jvoja_512.webp",
+      "name": "Kurtis",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "category": "kurti"
+    },
+    {
+      "id": 13,
+      "img": "https://www.91-cdn.com/hub/wp-content/uploads/2024/05/realme_p1_variant.jpg",
+      "name": "Real me p1",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "From ₹ 14,999",
+      "category": "mobile"
+    },
+    {
+      "id": 14,
+      "img": "https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/1695352069499/0b19ef2156bbe072eb912066d6c944ab.png",
+      "name": "Vivo T2 pro",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "From ₹ 20,999",
+      "category": "mobile"
+    },
+    {
+      "id": 15,
+      "img": "https://m.media-amazon.com/images/I/51dGqSFNrDL.jpg",
+      "name": "Poco m6 pro",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "From ₹ 9,249",
+      "category": "mobile"
+    },
+    {
+      "id": 16,
+      "img": "https://suprememobiles.in/cdn/shop/files/Redmi-12-5G-Blue-Available-Now_0f5cbec7-3eae-40d3-a37c-e153a08af0ea.jpg?v=1692010922&width=1946",
+      "name": "Redmi 12 5G",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "From ₹ 9,999",
+      "category": "mobile"
+    },
+    {
+      "id": 17,
+      "img": "https://suprememobiles.in/cdn/shop/files/Redmi-12-5G-Blue-Available-Now_0f5cbec7-3eae-40d3-a37c-e153a08af0ea.jpg?v=1692010922&width=1946",
+      "name": "Moto Edge",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "From ₹ 20,999",
+      "category": "mobile"
+    },
+    {
+      "id": 18,
+      "img": "https://images.fonearena.com/blog/wp-content/uploads/2024/04/realme-P1-5G-1024x1016.jpg",
+      "name": "Realme P1  pro 5G",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "From ₹ 17,999",
+      "category": "mobile"
+    },
+    {
+        "id": 19,
+        "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1687842433_3385347.jpg?format=webp&w=1080&dpr=1.3",
+        "name": "Tom Tsirt",
+        "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+        "Discount": "From ₹ 17,999",
+        "category": "tshirt"
+      },
+      {
+        "id": 20,
+        "img": "https://images.fonearena.com/blog/wp-content/uploads/2024/04/realme-P1-5G-1024x1016.jpg",
+        "name": "Realme P1  pro 5G",
+        "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+        "Discount": "From ₹ 17,999",
+        "category": "mobile"
+      }
+  ],
+  "shoes": [
+    {
+      "id": 1,
+      "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/849f818c-3bc0-4fd0-b00a-0a7bb0971359/air-max-270-shoes-2V5C4p.png",
+      "name": "Nike Shoes",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹ 1599",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": " shoes"
+    },
+    {
+      "id": 2,
+      "img": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/5/x/2/6-air-full-black-06-06-cool-and-creative-air-full-black-original-imagmqwuvztmhpdk.jpeg?q=90&crop=false",
+      "name": "Jordan Shoes",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹ 1599",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "shoes"
+    },
+    {
+      "id": 3,
+      "img": "https://www.jiomart.com/images/product/original/rvszqtm9c4/puma-men-s-radcliff-puma-black-sports-running-shoe-product-images-rvszqtm9c4-0-202210212017.jpg?im=Resize=(1000,1000)",
+      "name": "Puma Shoes",
+      "price": " ₹ 1599",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "shoes"
+    },
+    {
+      "id": 4,
+      "img": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/1/4/g/-original-imagg7htmzbsccup.jpeg?q=90&crop=false",
+      "name": "Bata Shoes",
+      "price": " ₹ 1599",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "shoes"
+    },
+    {
+      "id": 5,
+      "img": "https://manofmany.com/_next/image?url=https%3A%2F%2Fapi.manofmany.com%2Fwp-content%2Fuploads%2F2023%2F06%2F8-Types-of-Loafers-for-Men-and-How-to-Wear-Them.jpg&w=1200&q=75",
+      "name": "Lofer Shoes",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹ 1599",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "shoes"
+    },
+    {
+      "id": 6,
+      "img": "https://toroblu.in/cdn/shop/files/Toro-Blu-Men-s-Lace-Up-Formal-Shoes-HNR-Corporation-1685977274_9b6a54a8-596e-4563-b017-f70df7dd16af_2048x2048.jpg?v=1685977293",
+      "name": "Formal Shoes",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹ 1599",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "shoes"
+    },
+    {
+      "id": 7,
+      "img": "https://5.imimg.com/data5/ANDROID/Default/2022/11/LW/GP/JD/134279268/product-jpeg-500x500.jpg",
+      "name": "Addidas Shoes",
+      "price": " ₹ 1599",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "shoes"
+    },
+    {
+      "id": 8,
+      "img": "https://www.campusshoes.com/cdn/shop/products/FIRST_11G-787_WHT-SIL-B.ORG.jpg?v=1705644651",
+      "name": "Gym Shoes",
+      "price": " ₹ 1599",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "shoes"
+    },
+    {
+      "id": 9,
+      "img": "https://www.bxxyshoe.in/cdn/shop/products/black_6_4eefbe30-3eb7-4473-bb6b-4fddf4f3ac8e.jpg?v=1663766512&width=1946",
+      "name": "Partywar Shoes",
+      "price": " ₹ 1599",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "shoes"
+    },
+    {
+      "id": 10,
+      "img": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shopsy-shoe/9/r/d/6-sho-1503-white-6-shoenstring-white-original-imaghehh3fxmfygt.jpeg?q=90&crop=false",
+      "name": "Simple Shoes",
+      "price": " ₹ 1599",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "shoes"
+    }
+  ],
+  "sandless": [
+    {
+      "id": 1,
+      "img": "https://images.jdmagicbox.com/quickquotes/images_main/01-women-heel-sandals-2182553227-sb3j5f27.jpg",
+      "name": "Heel sandles",
+      "price": " ₹ 1599",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "sandless"
+    },
+    {
+      "id": 2,
+      "img": "https://images-eu.ssl-images-amazon.com/images/I/417+UCFMLIL.jpg",
+      "name": "Normal sandless",
+      "price": " ₹ 1599",
+      "mrp": "₹ 3999",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "sandless"
+    },
+    {
+      "id": 3,
+      "img": "https://image.made-in-china.com/202f0j00VkhrBNjFMUce/Summer-New-Style-Stylish-Women-s-Sandals-Flat-Bottom-Ladies-Shiny-Outdoor-Casual-Slippers.webp",
+      "name": "New style sandle",
+      "price": " ₹ 1599",
+      "mrp": "₹ 3999",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "sandless"
+    },
+    {
+      "id": 4,
+      "img": "https://assets.ajio.com/medias/sys_master/root/20230628/WXz5/649bcf91a9b42d15c90ab9ce/-473Wx593H-465912908-black-MODEL.jpg",
+      "name": "Soetopia sandle",
+      "price": " ₹ 1599",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "sandless"
+    },
+    {
+      "id": 5,
+      "img": "https://image.made-in-china.com/202f0j00KJeEhlgrnYoy/Fashion-Design-Ladies-2016-China-Factory-Fancy-Flat-Sandals-RW28028-.jpg",
+      "name": "Fashion design sandles",
+      "price": " ₹ 1599",
+      "mrp": "₹ 3999",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "sandless"
+    },
+    {
+      "id": 6,
+      "img": "https://roswp-mediastorage.s3.ap-south-1.amazonaws.com/wp-content/uploads/2024/03/05160818/Women-Flat-Sandals-DH-467-5.webp",
+      "name": "Vank fashion sandles",
+      "price": " ₹ 1599",
+      "mrp": "₹ 3999",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "sandless"
+    },
+    {
+      "id": 7,
+      "img": "https://rukminim2.flixcart.com/image/850/1000/xif0q/sandal/q/q/m/4-dori-blk-shomee-black-original-imagkfy2m9h75epg.jpeg?q=90&crop=false",
+      "name": "Shome tranding sandles",
+      "price": " ₹ 1599",
+      "mrp": "₹ 3999",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "sandless"
+    },
+    {
+      "id": 8,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlJB4LPdHUrrV3sAu92lPFuP2BUqgf2wpNFQ&usqp=CAU",
+      "name": "Roman fridge sandles",
+      "price": " ₹ 1599",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "sandless"
+    },
+    {
+      "id": 9,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpbNgdSbNRoYJ7D0biWQXiWmWmHzv4pheVKQ&usqp=CAU",
+      "name": "Bohemia sandles",
+      "price": " ₹ 1599",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "sandless"
+    },
+    {
+      "id": 10,
+      "img": "https://image.made-in-china.com/2f0j00QkEoGlhgmIbt/Best-Selling-Outside-Beach-Shoes-Twist-Flat-Sandals-Women-Summer-Stylish-Sandals.webp",
+      "name": "Beach sandles",
+      "price": " ₹ 1599",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "sandless"
+    }
+  ],
+  "top": [
+    {
+      "id": 1,
+      "img": "https://m.media-amazon.com/images/I/71eZJ1UkKfL.AC_UY1100.jpg",
+      "name": "Lymico top",
+      "price": " ₹ 1599",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "top"
+    },
+    {
+      "id": 2,
+      "img": "https://5.imimg.com/data5/SELLER/Default/2021/10/FZ/CJ/NU/135501286/designer-ladies-tops-manufacturer-500x500.jpg",
+      "name": "Casual top",
+      "price": " ₹ 1599",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "top"
+    },
+    {
+      "id": 3,
+      "img": "https://assets.ajio.com/medias/sys_master/root/20230624/zNCV/6496b822eebac147fcfc3144/-288Wx360H-465591174-black-MODEL.jpg",
+      "name": "Striped v-neck top",
+      "price": " ₹ 1599",
+      "mrp": "₹ 3999",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "top"
+    },
+    {
+      "id": 4,
+      "img": "https://www.whitewhale.co.in/cdn/shop/products/muq95_512_580x.jpg?v=1644313643",
+      "name": "Trendy top",
+      "price": " ₹ 1599",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "top"
+    },
+    {
+      "id": 5,
+      "img": "https://thephoenixcompany.in/cdn/shop/products/7_94372611-7223-4e2f-9409-a6b4c9b14359_1024x1024.jpg?v=1681888152",
+      "name": "Kalamkari design top",
+      "price": " ₹ 1599",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "top"
+    },
+    {
+      "id": 6,
+      "img": "https://thephoenixcompany.in/cdn/shop/products/7_94372611-7223-4e2f-9409-a6b4c9b14359_1024x1024.jpg?v=1681888152",
+      "name": "Foil print top",
+      "price": " ₹ 1599",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "top"
+    },
+    {
+      "id": 7,
+      "img": "https://5.imimg.com/data5/SELLER/Default/2021/8/KB/SC/PP/135849435/dhunki-1361-03-500x500.jpg",
+      "name": "Sliveless top",
+      "price": " ₹ 1599",
+      "mrp": "₹ 3999",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "top"
+    },
+    {
+      "id": 8,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaAb2vARRv6Q5Gv8jBsR8uSdxoGT9KtjMAUw&usqp=CAU",
+      "name": "Floren chiffos top",
+      "price": " ₹ 1599",
+      "mrp": "₹ 3999",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "top"
+    },
+    {
+      "id": 9,
+      "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSZNKkw-qNGSIYG1mDh0H3wPVJDHMizMQkS2GgymnwT5yMOqyyWrXvBlcKgS-ZpeS_TmBou2CClEwWz1772bWnudBoyYvYvn19qQAHw2fSI8LyGXP9dZ9anyA",
+      "name": "New style top",
+      "price": " ₹ 1599",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "top"
+    },
+    {
+      "id": 10,
+      "img": "https://images-cdn.ubuy.co.in/634e3c39358a8d7db9293213-bospose-long-sleeve-shirt-women-girls.jpg",
+      "name": "Minimax top",
+      "price": " ₹ 1599",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "top"
+    }
+  ],
+  "kurti": [
+    {
+      "id": 1,
+      "img": "https://5.imimg.com/data5/SELLER/Default/2022/11/OE/CC/HO/43318760/fabclub-rayon-floral-printed-straight-red-women-kurti.JPG",
+      "name": "Floral printed kurti",
+      "price": " ₹ 1599",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "kurti"
+    },
+    {
+      "id": 2,
+      "img": "https://5.imimg.com/data5/SELLER/Default/2023/8/336502509/YO/JA/JE/122250354/ladies-kurti.jpg",
+      "name": "Plan  kurti",
+      "price": " ₹ 1599",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "kurti"
+    },
+    {
+      "id": 3,
+      "img": "https://images.meesho.com/images/products/312367666/nbkpv_512.webp",
+      "name": "Long kurti",
+      "price": " ₹ 1599",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "kurti"
+    },
+    {
+      "id": 4,
+      "img": "https://images.meesho.com/images/products/387836968/dljnm_512.webp",
+      "name": "Fashionble kurti",
+      "price": " ₹ 1599",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "kurti"
+    },
+    {
+      "id": 5,
+      "img": "https://assets.ajio.com/medias/sys_master/root/20230628/5TsT/649bbc73a9b42d15c9087ba7/-473Wx593H-465862395-red-MODEL.jpg",
+      "name": "Floral printed plan kurti",
+      "price": " ₹ 1599",
+      "mrp": "₹ 3999",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "kurti"
+    },
+    {
+      "id": 6,
+      "img": "https://mahezon.in/cdn/shop/files/womenblackembroiderykurti_500x641_crop_center.png?v=1695657103",
+      "name": "Designer kurti",
+      "price": " ₹ 1599",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "kurti"
+    },
+    {
+      "id": 7,
+      "img": "https://fcity.in/images/products/343557067/8h611_512.jpg",
+      "name": "Stylish kurti",
+      "price": " ₹ 1599",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "kurti"
+    },
+    {
+      "id": 8,
+      "img": "https://rukminim2.flixcart.com/image/850/1000/xif0q/kurta/p/3/v/m-jk4688-jaipur-kurti-original-imagqxwkbepjpjud.jpeg?q=90&crop=false",
+      "name": "Anarkali kurti",
+      "price": " ₹ 1599",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "kurti"
+    },
+    {
+      "id": 9,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoEiPlixLWa1fUCRjeMvPXooTY1pazwfiVcw&usqp=CAU",
+      "name": "Bandy collection kurti",
+      "price": " ₹ 1599",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "kurti"
+    },
+    {
+      "id": 10,
+      "img": "https://5.imimg.com/data5/SELLER/Default/2023/8/336502509/YO/JA/JE/122250354/ladies-kurti.jpg",
+      "name": "Plan cotton kurti",
+      "price": " ₹ 1599",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "kurti"
+    }
+  ],
+  "wallet & belt": [
+    {
+      "id": 1,
+      "img": "https://i.etsystatic.com/7763764/r/il/9ddb5a/2047788376/il_570xN.2047788376_afsd.jpg",
+      "name": "Leather wallet",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹ 1599",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "wallet & belt"
+    },
+    {
+      "id": 2,
+      "img": "https://5.imimg.com/data5/SELLER/Default/2023/2/JE/SX/PL/16316999/urban-forest-kyle-rfid-blocking-green-grey-leather-wallet-for-men.jpg",
+      "name": "Urban forest wallet",
+      "price": " ₹ 1599",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "wallet & belt"
+    },
+    {
+      "id": 3,
+      "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRF9BxHoT_iXPks-23Q7dLog8eZMP9qsePkAsYNdiTtcwHNyTHw-vkg_mqYnEWFw6-xqU8ZHhTcQCRZvi9CyKJzRsJjaFWWy67T27qujnzOPb-jBa-JWOQq",
+      "name": "Tryfold wallet",
+      "price": " ₹ 1599",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "wallet & belt"
+    },
+    {
+      "id": 4,
+      "img": "https://5.imimg.com/data5/SELLER/Default/2023/8/332901529/YW/PA/EU/194541920/urban-forest-oliver-redwood-leather-wallet-for-men-500x500.jpg",
+      "name": "Geniune lether wallet",
+      "price": " ₹ 1599",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "wallet & belt"
+    },
+    {
+      "id": 5,
+      "img": "https://m.media-amazon.com/images/I/91zNkFeyd4L.AC_UY1100.jpg",
+      "name": "Card holder wallet",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹ 1599",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "wallet & belt"
+    },
+    {
+      "id": 6,
+      "img": "https://m.media-amazon.com/images/I/81fhnNyucxL.AC_UY1100.jpg",
+      "name": "Leather belt",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹ 1599",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "wallet & belt"
+    },
+    {
+      "id": 7,
+      "img": "https://m.media-amazon.com/images/I/81Uzkdbr4pL.AC_UY350.jpg",
+      "name": "Western belt",
+      "price": " ₹ 1599",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "wallet & belt"
+    },
+    {
+      "id": 8,
+      "img": "https://i.ebayimg.com/images/g/YPkAAOSwZVljJCxY/s-l1200.webp",
+      "name": "Custom leather belt",
+      "price": " ₹ 1599",
+      "mrp": "₹ 3999",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "wallet & belt"
+    },
+    {
+      "id": 9,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzvRN0ikDLF1mguH9whL6cTUFUM8n91P4YDz7Xqu0Nb0WtJ8LKFr7rC82HNIimttNtX-o&usqp=CAU",
+      "name": "Profesional belt",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹ 1599",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "wallet & belt"
+    },
+    {
+      "id": 10,
+      "img": "https://m.media-amazon.com/images/I/81TouqCUHoL.AC_UF1000,1000_QL80.jpg",
+      "name": "Workout belt",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹ 1599",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "wallet & belt"
+    }
+  ],
+  "track": [
+    {
+      "id": 1,
+      "img": "https://www.technosport.in/cdn/shop/products/P664_20Black_1_363eb988-5cc5-4a57-bda1-09631f5f9b5f.webp?v=1710725156&width=360",
+      "name": "slim fit",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹ 558",
+      "mrp": "₹ 620",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "track"
+    },
+    {
+      "id": 2,
+      "img": "https://www.technosport.in/cdn/shop/products/OR85_20DK_20Carbon_1_b60434a9-1f83-4dc7-9e85-a3d364262f32.webp?v=1710138448&width=360",
+      "name": " beggy fit",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹ 549",
+      "mrp": "₹ 2000",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "track"
+    },
+    {
+      "id": 3,
+      "img": "https://www.technosport.in/cdn/shop/products/P604_20Iron_20Grey_1_159070cf-764b-4a2f-9fe5-1d839449f3d7.webp?v=1710662167&width=360",
+      "name": "gray slim fit",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹504",
+      "mrp": "₹ 669",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "track"
+    },
+    {
+      "id": 4,
+      "img": "https://www.technosport.in/cdn/shop/products/OR95_20Black_20Stonegrey_1_3785e46a-4d38-4840-b5a8-fc663893d7fa.webp?v=1710851720&width=360",
+      "name": "Color block wallet",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹ 1599",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "track"
+    },
+    {
+      "id": 5,
+      "img": "https://www.technosport.in/cdn/shop/files/OR25_20Light_20Grey_1_14894d81-3913-42bd-acb2-93585618a214.webp?v=1715677003&width=360",
+      "name": "lazy fit ",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹ 510",
+      "mrp": "₹ 999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "track"
+    },
+    {
+      "id": 6,
+      "img": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/6caf28772f424b8096a0eb0a2305ef3c_9366/train-essentials-seasonal-woven-training-pants.jpg",
+      "name": "woven training pants",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹ 1599",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "track"
+    },
+    {
+      "id": 7,
+      "img": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/edee6abc255c4e20bc34af180180969c_9366/woven-pants.jpg",
+      "name": "woven training pants",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹ 2000",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "track"
+    },
+    {
+      "id": 8,
+      "img": "https://www.technosport.in/cdn/shop/products/P643_20Lunar_20Grey_1_9e6b05bf-8580-42b6-9d5a-5f732946e329.webp?v=1710688701&width=360",
+      "name": "Solidn fit gray",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹ 584",
+      "mrp": "₹ 999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "track"
+    },
+    {
+      "id": 9,
+      "img": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/2c6fb398e7c44ab3b408af1d01101c05_9366/aeroready-essentials-stanford-open-hem-embroidered-small-logo-pants.jpg",
+      "name": "Cotton fit",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹ 625",
+      "mrp": "₹ 2000",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "track"
+    },
+    {
+      "id": 10,
+      "img": "https://www.technosport.in/cdn/shop/files/OR85_20Iron_20Grey_1_019ebc58-99ed-4713-87cf-674c6e30088f.webp?v=1711169910&width=360",
+      "name": " Men Solid Relax Fit Trackpants",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹ 1599",
+      "mrp": "₹ 3999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "track"
+    }
+  ],
+  "forck": [
+    {
+      "id": 1,
+      "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ9QDIHM29ETYSJFoi6rNTAZpOL3odi3marFmSnN08tSRUN50SmPA0gJWpv_ARtxNtJkyTfJNUSHviTd8vTvCNlFXXnN3mK2_8rW_MoyQuN2-dpR5LNVGU6",
+      "name": "comfoortable printed frock ",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹ 558",
+      "mrp": "₹ 620",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "frock"
+    },
+    {
+      "id": 2,
+      "img": "https://images.meesho.com/images/products/365365154/lxfjn_1200.jpg",
+      "name": "blue berry fit ",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹ 1555",
+      "mrp": "₹ 2000",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "frock"
+    },
+    {
+      "id": 3,
+      "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS_sNkaQhcKfSx3Q7AZ2oa0pHwIU7_BMzcHCwflGbUl3wXYwNYah_iZGl6xKHt_w9lieUeVTQMLFLtgaHAAFB4HLfWxcuYv1v9eMIAx5s4uRWUiQ-qgWFf76A",
+      "name": "western dreass ",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹ 225",
+      "mrp": "₹ 620",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "frock"
+    },
+    {
+      "id": 4,
+      "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQTKZGUiWsTCXSFKxNEbnMTzCab0wGMAegYGSl0kxVg-m04qb3jTeWhqawSToa8jGTkiRO6rQ7dBWrLOyeJyDJ7As7-8Yza1XjySBD48h_3eoD15SDWfGky",
+      "name": "embrodery sequence ",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹ 222",
+      "mrp": "₹ 620",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "frock"
+    },
+    {
+      "id": 5,
+      "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRB8NLyFn5If2-s6W3IyeVGQX9Cxc6CiqZV-MGvsKLY35TxQBrirYHOZCTZ-Vej51w0XN_xnYYhPXWUK1ycLDN1Z-XJN-dMBI9H09Pprs4v",
+      "name": "net frock ",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹ 550",
+      "mrp": "₹ 620",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "frock"
+    },
+    {
+      "id": 6,
+      "img": "https://images.meesho.com/images/products/354444687/hidiy_1200.jpg",
+      "name": "purple fairy dress ",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹ 249",
+      "mrp": "₹ 620",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "frock"
+    },
+    {
+      "id": 7,
+      "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQJAYQZCp_AMl_TBMP-mii5wnTGY3L1NSuVNU63kiAA78izAktl1DjU-YAliPvCWV3NGY1VXAqvcojsxlRgqJL7poGEoYCI48e17u6ymNmchiF1dzrvweWdTD8",
+      "name": " one piece for dressing",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹ 135",
+      "mrp": "₹ 620",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "frock"
+    },
+    {
+      "id": 8,
+      "img": "https://images.meesho.com/images/products/422592576/wdmkd_1200.jpg",
+      "name": "short sleevs and tie up ",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹ 499",
+      "mrp": "₹ 620",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "frock"
+    },
+    {
+      "id": 9,
+      "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTtAqK1Il109mwj9bd_Z6wFrw_tBOXyeMAcWZ_tvqh_YEW5Zd_-5OlTeqUyooC6g5hkODT7VL82amEAtUjKX2e2xOgVvi-EEL1lBJcHKIyzvUvDWpsXlM1Fpg",
+      "name": " sleeves crap green",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹ 379",
+      "mrp": "₹ 620",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "frock"
+    },
+    {
+      "id": 10,
+      "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS-V1dz5PPu1F1Jlw0jOUE1mHYuvwxHH43Jo_9EbF_vrnigVVF14KFyi0fBeY59dgeLgtMVSLqvmr4hiGnrgR4WlSw9T8g_HI5vKBr176_SuCUxCPQsmrYO",
+      "name": "roesy paris ",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹ 558",
+      "mrp": "₹ 620",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "frock"
+    }
+  ],
+  "mobile": [
+    {
+      "id": 1,
+      "img": "https://m.media-amazon.com/images/I/51yudMdOb8L._AC_UL480_QL65_.jpg",
+      "name": "Lava O2 ",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹ 7999",
+      "mrp": "₹ 9999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "mobile"
+    },
+    {
+      "id": 2,
+      "img": "https://m.media-amazon.com/images/I/5155PFA2N+L._AC_UL480_QL65_.jpg",
+      "name": " one plus norde CE4 lite",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹19,999 ",
+      "mrp": "₹ 25000",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "mobile"
+    },
+    {
+      "id": 3,
+      "img": "https://m.media-amazon.com/images/I/71nMx5PxibL._AC_UL480_FMwebp_QL65_.jpg",
+      "name": "redmi CE# 5g  ",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹ 10,499",
+      "mrp": "₹15000 ",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "mobile"
+    },
+    {
+      "id": 4,
+      "img": "https://m.media-amazon.com/images/I/61wHkeTOhWL._AC_UL480_QL65_.jpg",
+      "name": "IQ00 Z9x59 ",
+      "price": " ₹14,999 ",
+      "mrp": "₹ 26999",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "mobile"
+    },
+    {
+      "id": 5,
+      "img": "https://m.media-amazon.com/images/I/61sY8BGOyEL._AC_UL480_QL65_.jpg",
+      "name": "IQ00 Z9x59 5G ",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹14,999 ",
+      "mrp": "₹ 18,999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "mobile"
+    },
+    {
+      "id": 6,
+      "img": "https://m.media-amazon.com/images/I/81KFSdWCCEL._AC_UL480_QL65_.jpg",
+      "name": "redmi 13CE 5G ",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹ 10,499",
+      "mrp": "₹19,999 ",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "mobile"
+    },
+    {
+      "id": 7,
+      "img": "https://m.media-amazon.com/images/I/71hj88T5aBL._AC_UL480_FMwebp_QL65_.jpg",
+      "name": "Realme Narzzo  ",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹13,499 ",
+      "mrp": "₹17,999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "mobile"
+    },
+    {
+      "id": 8,
+      "img": "https://m.media-amazon.com/images/I/71nMx5PxibL._AC_UL480_FMwebp_QL65_.jpg",
+      "name": "12,499 ",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹17,998 ",
+      "mrp": "₹ ",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "mobile"
+    },
+    {
+      "id": 9,
+      "img": "https://m.media-amazon.com/images/I/613SAOPmLeL._AC_UL480_FMwebp_QL65_.jpg",
+      "name": " one plus 11R CE lite",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹ 29,999",
+      "mrp": "₹39,999 ",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "mobile"
+    },
+    {
+      "id": 10,
+      "img": "https://m.media-amazon.com/images/I/71ocQY+G2XL._AC_UL480_FMwebp_QL65_.jpg",
+      "name": "Realme Narzzo N65  ",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹ 12498",
+      "mrp": "₹17,999",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "mobile"
+    }
+  ],
+  "tshirt": [
+    {
+        "id": 1,
+        "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSkjjsh9xlRSbWp7ZNo05kszW9eGl86pOPo-HTaKKSPvbpz76zx0CGSTmn5Xqhc9YWW2UtRHel1co8vYZ9hiKdFzSJgHA3jQR6hlvPYcJRuS0DH7CFhmPgiLA",
+        "name": "Travis OverSixed",
+        "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+        "price": " ₹899",
+        "mrp": "₹ 2000",
+        "dis": "60% off",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+        "category": "t-shirt"
+      },
+      {
+        "id": 2,
+        "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRPMoCbbJU4IFQHNQgdeVppaXf5ZpgAA1nB4GtmLQMgC3uV-VM-LSDPQui5U5A6r11HQP_ZY9v4OIfSZFVwGPc3vk93nXin9ooi-CP1LAfD",
+        "name": "Mens Asuk strip  ",
+        "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+        "price": " ₹229",
+        "mrp": "₹ 1800",
+        "dis": "60% off",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+        "category": "t-shirt"
+      }, {
+        "id": 3,
+        "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcScsVMQFCFgm8A8TYaXDDGjcHU6qH-N0GMM0wDFyd5ENaORsl0CuVEs2hZQjNVJ4T_f1GvgRHZ-YxKlAVqoOaDMJXcu4X8ziNcwBCMxfoWqzI2AC74UIw5C",
+        "name": "Marvel Comic  ",
+        "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+        "price": " ₹599",
+        "mrp": "₹ 1400",
+        "dis": "60% off",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+        "category": "t-shirt"
+      }, {
+        "id": 4,
+        "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRVdMkQp8KplaeZD97KWgyboGqDGHLK2vve4cs0wJWnhhYWy5T-HWY_b1RTDQxlFipwxqhU79l78l-LZKND0NiwCpZJYgkbo75BFFT_XyoZHQ7eAzcgic2bQw",
+        "name": " H&M mens  set of 4 ",
+        "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+        "price": " ₹2500",
+        "mrp": "₹ 2900",
+        "dis": "60% off",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+        "category": "t-shirt"
+      }, {
+        "id": 5,
+        "img": "https://images.meesho.com/images/products/374206265/6zazs_1200.jpg",
+        "name": "inazk tsirt ",
+        "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+        "price": " ₹265",
+        "mrp": "₹ 500",
+        "dis": "60% off",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+        "category": "t-shirt"
+      }, {
+        "id": 6,
+        "img": "https://images.meesho.com/images/products/374206265/6zazs_1200.jpg",
+        "name": "  ",
+        "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+        "price": " ₹799",
+        "mrp": "₹ 900",
+        "dis": "60% off",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+        "category": "t-shirt"
+      }, {
+        "id": 7,
+        "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQTrFkLzd_d0g-LClcA70N-Hg7ug2ZIkcXsG2AJUpE5p1uhpBDAI8KwakJgYf7khH3CN3SrDme0kxw5z9IHUVJGr8aNfbdwQLiCpHeyqwYl",
+        "name": " eyeborge fashion ",
+        "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+        "price": " ₹339",
+        "mrp": "₹ 1500",
+        "dis": "60% off",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+        "category": "t-shirt"
+      }, {
+        "id": 8,
+        "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSNNZp6L3yF7znu1f4NZ-Q_O0by7yGt9FVC9Ujot0cN8-WRv_-ApsgKY4uftJQyU6vCZCOJ2CElmRJAT-ImbV-sb1_2o7tYWvP_IxjjBiA",
+        "name": " JUMP Cuts ",
+        "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+        "price": " ₹395",
+        "mrp": "₹ 1200",
+        "dis": "60% off",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+        "category": "t-shirt"
+      }, {
+        "id": 9,
+        "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSqvWzvS0MX8mR0vIwJTyYD7XzjStDqHk5QSoH0ISkkQyvLI5EzUYolnstpVXRdKazD5JnRyk6GUzzMypsF01F8do00zgj09ebL2UKP0-aGyR6bRZczG8JAUw",
+        "name": " men Mystry ",
+        "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+        "price": " ₹399",
+        "mrp": "₹ 560",
+        "dis": "60% off",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+        "category": "t-shirt"
+      }, {
+        "id": 10,
+        "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQFsdVUCoRz93nHL43AWG9H_LBjOIbZwvhTDG7hths_5gZ76Px4xTM6vyQKXpRkyp1vtbA1RTKix0CR4Za6h2p8PscYccVGYgbW8lR87uzdPawHO1yhUqb6hg",
+        "name": "CHKOCKHCO  ",
+        "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+        "price": " ₹299",
+        "mrp": "₹ 1200",
+        "dis": "60% off",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+        "category": "t-shirt"
+      }
+  ],
+  "furniture":[
+    {
+      "id": 1,
+      "img": "https://rukminim1.flixcart.com/image/210/210/j5ihlzk0/bed-mattress/2/y/c/6-48-75-skbnnldb75x48x06-bonnell-spring-peps-original-imaevnpjqz2mwyrz.jpeg?q=90",
+      "name": "Mattresses",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹899",
+      "mrp": "₹ 2000",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "furniture"
+    },
+    {
+      "id": 2,
+      "img": "https://rukminim1.flixcart.com/image/210/210/l4d2ljk0/sofa-sectional/x/j/l/left-facing-180-34-aqua-blue-241-3-polyester-80-steffan-l-sheped-original-imagf9zer8ptqhrh.jpeg?q=90",
+      "name": "Sofa And Sectional",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹7999",
+      "mrp": "₹ 11000",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "furniture"
+    },{
+      "id": 3,
+      "img": "https://rukminim1.flixcart.com/image/210/210/keg02a80/wardrobe-closet/f/y/f/particle-board-bewtri000500800620-kurlon-wenge-original-imafv49kgfrmmxbq.jpeg?q=90",
+      "name": "Dining Set",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹6000",
+      "mrp": "₹ 10000",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "furniture"
+    },{
+      "id": 4,
+      "img": "https://rukminim1.flixcart.com/image/210/210/xif0q/office-study-chair/z/t/2/1-teak-sagun-58-42-js-29-beaatho-121-92-original-imagrwgshgp2bhwv.jpeg?q=90",
+      "name": "Sofa And Sectional",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹7999",
+      "mrp": "₹ 11000",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "furniture"
+    },{
+      "id": 5,
+      "img": "https://rukminim1.flixcart.com/image/210/210/l4d2ljk0/sofa-sectional/x/j/l/left-facing-180-34-aqua-blue-241-3-polyester-80-steffan-l-sheped-original-imagf9zer8ptqhrh.jpeg?q=90",
+      "name": "Sofa And Sectional",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹7999",
+      "mrp": "₹ 11000",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "furniture"
+    },{
+      "id": 6,
+      "img": "https://rukminim2.flixcart.com/image/612/612/kwgpz0w0/outdoor-chair/x/c/n/910-1-wrought-iron-600-7-846759-veenu-960-black-metal-frame-with-original-imag947yfdjdqran.jpeg?q=70",
+      "name": "Sofa And Sectional",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹7999",
+      "mrp": "₹ 11000",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "furniture"
+    },{
+      "id": 7,
+      "img": "https://rukminim2.flixcart.com/image/612/612/xif0q/outdoor-chair/v/l/o/55-1-pp-polypropylene-83-2-comfort-chair-rosewood-cello-88-original-imagtgdhunhphftw.jpeg?q=70",
+      "name": "Sofa And Sectional",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹7999",
+      "mrp": "₹ 11000",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "furniture"
+    },{
+      "id": 8,
+      "img": "https://rukminim2.flixcart.com/image/612/612/xif0q/outdoor-chair/x/7/2/10-1-aluminium-28-0-869-869-knyuc-mart-14-blue-original-imagysdvfdgjw9cm.jpeg?q=70",
+      "name": "Sofa And Sectional",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹7999",
+      "mrp": "₹ 11000",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "furniture"
+    },{
+      "id": 9,
+      "img": "https://rukminim2.flixcart.com/image/612/612/xif0q/outdoor-chair/7/8/z/60-4-pp-polypropylene-56-11-6-chr-m4omg-pck4-maharaja-80-brown-original-imagz6kkpnx6shgy.jpeg?q=70",
+      "name": "Sofa And Sectional",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹7999",
+      "mrp": "₹ 11000",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "furniture"
+    },{
+      "id": 10,
+      "img": "https://rukminim2.flixcart.com/image/612/612/xif0q/tv-entertainment-unit/j/d/r/25-120-particle-board-18-ak-irina-w-wt-anikaa-112-43-wenge-white-original-imahycssur777etc.jpeg?q=70",
+      "name": "Sofa And Sectional",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "price": " ₹7999",
+      "mrp": "₹ 11000",
+      "dis": "60% off",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad non hic dolor ab repellendus quos, ea placeat? Asperiores, ullam delectus?",
+      "category": "furniture"
+    }
+
+  ]
+}
