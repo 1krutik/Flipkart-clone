@@ -208,11 +208,11 @@
         "category": "mobile"
       }
   ],
-  "shoes": [
+  "shoes": [ 
     {
       "id": 1,
       "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/849f818c-3bc0-4fd0-b00a-0a7bb0971359/air-max-270-shoes-2V5C4p.png",
-      "name": "Nike Shoes",
+      "name": "Nike Shoes",   
       "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
       "price": " ₹ 1599",
       "mrp": "₹ 3999",

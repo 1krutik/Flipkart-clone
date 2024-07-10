@@ -44,11 +44,18 @@ const Navbar = () => {
                  
                     </Link>
                 </li>
-                <li className=" ">
-                    <Link className="link" to={"/cart"}>
-                  <i className="fa-solid fa-cart-shopping fa-lg"></i> Cart
+                 <li className=" ">
+                    <Link className="link navbar-link cart-trolley--link" to={"/cart"}>
+                  <i className="fa-solid fa-cart-shopping fa-lg cart-trolley"></i> 
+                <span className='cart-total--item'>{}</span>
+
                     </Link>
-                </li>
+
+                    
+                </li> 
+                  <li>
+              
+            </li>
                 <li className="  order-last">
                   <Link className="link"> 
                   <i className="fa-solid fa-store fa-lg "></i>

@@ -37,6 +37,9 @@ function Alldata() {
             <p className="text-danger"><s>{item.mrp}</s></p>
             <p className="text-success">{item.dis}</p>
             </div>
+            <h1>github
+               
+            </h1>
            </div>
 
           </>
